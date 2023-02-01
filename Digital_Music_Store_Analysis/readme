@@ -1,1 +1,10 @@
-hi
+In this project we will analyze the Chinook Playlist database by Udactiy. We will examine the dataset with SQL and help the storeThis project will analyze the Chinook playlist database by Udacity. We will examine the dataset with SQL and help the store understand its business growth by answering simple questions like:
+
+What are the top genres sold?
+
+Which city has the best customers?
+
+The highest number of invoices belogs to which country?
+
+Select the artist, customers to invite to a rock concert. 
+Decide where the concert will be.
